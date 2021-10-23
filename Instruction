@@ -1,0 +1,7 @@
+### **Use the 'insurance' dataset**
+
+Look for the best models and hyperparameters to predict each individual's insurance costs based on their characteristics.
+- Do EDA to explore the dataset first.
+- Perform modeling using linear regression, knn regressor, and decision tree regressor.
+- Choose the best 1 model from the cross validation results, then tune the model.
+- Compare model results before and after tuning.
